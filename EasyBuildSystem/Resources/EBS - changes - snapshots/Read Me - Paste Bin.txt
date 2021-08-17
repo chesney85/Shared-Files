@@ -1,0 +1,8 @@
+https://pastebin.com/Z5JQcrik
+
+Any errors will be relating to id not a string.
+Changinf the errors in pictures will fix it.
+I hope i never missed any, if i did just change to string.
+
+
+This was tested using mirror integration and pieces placed ok and id was recognised.
